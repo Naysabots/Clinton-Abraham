@@ -10,7 +10,7 @@
 <p align="center">
     <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/NaysaBots/&title=Hits" alt="Hits"/>
     <a href="https://telegram.dog/NaysaBots"><img src="https://img.shields.io/badge/NaysaBots-30302f?style=flat&logo=telegram" alt="telegram badge"/>
-    <a href="https://telegram.dog/Tellybots"><img src="https://img.shields.io/badge/NaysaBots-30302f?style=flat&logo=telegram" alt="telegram badge"/>
+    <a href="https://telegram.dog/Tellybots"><img src="https://img.shields.io/badge/Tellybots-30302f?style=flat&logo=telegram" alt="telegram badge"/>
 </p>
 
 <div align="center">
